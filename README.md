@@ -1,4 +1,4 @@
 # proyecto
 Envio EjercicioFisicaarray3
-Esrudiante
+Estudiante
 JAVIER HUEZO
